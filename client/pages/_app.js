@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "antd/dist/antd.css";
 import "../public/css/styles.css";
 import "../public/css/register.css";
+import "../public/css/login.css";
 
 function MyApp({ Component, pageProps }) {
   return (
